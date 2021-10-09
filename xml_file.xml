@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<goods>
+    <good>
+        <info category = "kettle">Kettle</info>
+        <name>Xiaomi Mi</name>
+        <price>820</price> 
+        <material>aluminum</material>   
+        <voltage>420</voltage>   
+    </good> 
+    <good>
+        <info category = "phone">Phone</info>
+        <name>Bork</name>
+        <price>800</price> 
+        <color>blue</color> 
+    </good> 
+    <good>
+        <info category = "phone">Phone</info>
+        <name>Sumsung</name>
+        <price>1200</price> 
+        <color>silver</color>
+    </good>
+    <good>
+        <info category = "kettle">Kettle</info>
+        <name>Bork</name>
+        <price>800</price> 
+        <material>aluminum</material> 
+        <voltage>240</voltage>
+    </good>
+    <good>
+        <info category = "frige">Kettle</info>
+        <name>Sumsung</name>
+        <price>1200</price> 
+        <color>silver</color> 
+    </good>
+    <good>
+        <info category = "frige">Kettle</info>
+        <name>Atlant</name>
+        <price>1700</price> 
+        <color>white</color> 
+    </good>
+    <good>
+        <info category = "kettle">Kettle</info>
+        <name>Scarlett</name>
+        <price>950</price> 
+        <material>stainless steel</material> 
+        <voltage>520</voltage>
+    </good>
+</goods>
