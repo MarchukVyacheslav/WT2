@@ -5,7 +5,7 @@ import org.w3c.dom.Document;
 
 import javax.xml.xpath.XPathExpressionException;
 
-public interface IDAO {
+public interface DAOInterface {
     // Печать всех элементов Good
     void printCost(Document document) throws DOMException, XPathExpressionException;
     // Печать элемента Good у которого атрибут category='kettle'
